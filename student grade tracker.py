@@ -14,8 +14,6 @@ print('Total grade is : ',total)
 
 percentage=(total/500)*100
 print('Percentage is : ','%.2f'%(percentage),'%')
-Math: 55
->>> 
 >>> 
 >>> 
 >>> 
